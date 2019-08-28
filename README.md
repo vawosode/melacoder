@@ -1,2 +1,2 @@
-# p-m-coding
+# melacoder
 founders and coders prerequisites 
