@@ -1,7 +1,7 @@
 /* CSS Document */
 main {
 }
-
+/* CAROUSEL */
 .wrapper {
   height: 200px;
   width: 632px;
@@ -43,8 +43,11 @@ color: red;
 }
 
 .second-container {
-  background-color: green;
-  width: 100%;
+  border-radius: 25px;
+  border: 2px solid purple;
+  padding: auto;
+  width: auto;
+  height: auto;
 }
 
 .slider-container {
@@ -62,11 +65,43 @@ color: red;
   -o-transition: left 2s;
   }
 
+
+.body {
+  max-width: 500px;
+  margin: auto;
+}
+/* NAVIGATION*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: center;
+}
+
+li a {
+  display: block;
+  color: purple;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
 h1 {
   font-size: 150px;
   font-family: sans-serif;
   text-align: center;
-  color: purple;
+  color: black
+
   }
 
 
@@ -76,53 +111,19 @@ h1 {
   text-align: center;
   text-align: justify; */
 
-color: yellow;
+color: black;
 font-size: 3em;
 /* padding-right: 200px;
 padding-left: 200px;  */
-width: 80%;
+width: ;
 text-align: center;
 
 }
 
-p1 {
-  font-size: 30px;
-  font-family: monospace;
-  text-align: center;
-  text-align: justify;
-  font-weight: bold;
-  background-color: rgba (80, 45, 45, 1);
-  padding: 10px;
-
-}
 
 h2 {
-  font-size: 30px;
-  font-family: monospace;
-  text-align: center;
-  text-align: justify;
-  font-weight: bold;
-}
-
-h3 {
-  font-size: 30px;
-  font-family: monospace;
-  text-align: center;
-  text-align: justify;
-  font-weight: bold;
-}
-
-h4 {
-  font-size: 30px;
-  font-family: monospace;
-  text-align: center;
-  text-align: justify;
-  font-weight: bold;
-}
-
-h5 {
-  font-size: 30px;
-  font-family: monospace;
+  font-size: 50px;
+  font-family: georgia;
   text-align: center;
   text-align: justify;
   font-weight: bold;
