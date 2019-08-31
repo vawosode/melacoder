@@ -1,6 +1,14 @@
 /* CSS Document */
 
+/* BACKGROUND */
 
+.background {
+background-repeat:no-repeat;
+border:1px solid black;
+width:300px;
+height:300px;
+font-size:18px;
+}
 /* CAROUSEL */
 * Parent wrapper to carousel. Width can be changed as needed. */
 .carousel-wrapper {
