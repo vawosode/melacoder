@@ -174,7 +174,7 @@ h2 {
   font-weight: 100;
   margin: 0.5em 0 1em 0;
 }
-/* CONTENT PAGE BORDER */
+/* CONTENT PAGE BORDER
 .first-container {
    margin: auto;
    width: 75%;
@@ -182,10 +182,12 @@ h2 {
    padding: 10px;
 }
 
+*/
+
 /* CONTENT PAGE BORDER 2 */
 .second-container {
    margin: auto;
-   width: auto;
-   border: 3px solid white;
+   width: 75%;
+   border: 3px solid green;
    padding: 10px;
 }
