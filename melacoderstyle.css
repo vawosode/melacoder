@@ -144,7 +144,7 @@ h1 {
   font-size: 150px;
   font-family: arial;
   text-align: center;
-  color: black
+  color: purple;
 
   }
 
@@ -170,8 +170,8 @@ text-justify: inter-word;
 h2 {
   text-align: center;
   font-family: arial;
-  font-size: 60px;
-  color: black;
+  font-size: 47px;
+  color: purple;
   font-weight: 100;
   margin: 0.5em 0 1em 0;
 }
